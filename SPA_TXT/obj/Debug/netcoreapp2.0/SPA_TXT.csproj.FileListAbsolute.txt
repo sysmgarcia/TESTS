@@ -1,0 +1,11 @@
+C:\Users\marci\source\repos\SPA_TXT\SPA_TXT\bin\Debug\netcoreapp2.0\SPA_TXT.deps.json
+C:\Users\marci\source\repos\SPA_TXT\SPA_TXT\bin\Debug\netcoreapp2.0\SPA_TXT.runtimeconfig.json
+C:\Users\marci\source\repos\SPA_TXT\SPA_TXT\bin\Debug\netcoreapp2.0\SPA_TXT.runtimeconfig.dev.json
+C:\Users\marci\source\repos\SPA_TXT\SPA_TXT\bin\Debug\netcoreapp2.0\SPA_TXT.dll
+C:\Users\marci\source\repos\SPA_TXT\SPA_TXT\bin\Debug\netcoreapp2.0\SPA_TXT.pdb
+C:\Users\marci\source\repos\SPA_TXT\SPA_TXT\obj\Debug\netcoreapp2.0\SPA_TXT.csprojAssemblyReference.cache
+C:\Users\marci\source\repos\SPA_TXT\SPA_TXT\obj\Debug\netcoreapp2.0\SPA_TXT.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\SPA_TXT\SPA_TXT\obj\Debug\netcoreapp2.0\SPA_TXT.AssemblyInfoInputs.cache
+C:\Users\marci\source\repos\SPA_TXT\SPA_TXT\obj\Debug\netcoreapp2.0\SPA_TXT.AssemblyInfo.cs
+C:\Users\marci\source\repos\SPA_TXT\SPA_TXT\obj\Debug\netcoreapp2.0\SPA_TXT.dll
+C:\Users\marci\source\repos\SPA_TXT\SPA_TXT\obj\Debug\netcoreapp2.0\SPA_TXT.pdb
